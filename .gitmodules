@@ -194,6 +194,10 @@
 	path = extensions/base16
 	url = https://github.com/bswinnerton/base16-zed.git
 
+[submodule "extensions/carbonfox"]
+	path = extensions/carbonfox
+	url = https://github.com/s4096770/carbonfox-zed.git
+
 [submodule "extensions/basher"]
 	path = extensions/basher
 	url = https://github.com/zed-extensions/bash.git

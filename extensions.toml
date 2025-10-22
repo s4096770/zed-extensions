@@ -14,6 +14,12 @@ version = "0.1.0"
 submodule = "extensions/activitywatch"
 version = "0.1.2"
 
+
+[carbonfox]
+submodule = "extensions/carbonfox"
+version = "1.0.0"
+
+
 [ada]
 submodule = "extensions/ada"
 version = "0.3.0"
