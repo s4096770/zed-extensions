@@ -202,6 +202,11 @@
 	path = extensions/basher
 	url = https://github.com/zed-extensions/bash.git
 
+[submodule "extensions/zuban"]
+	path = extensions/zuban
+	url = https://github.com/CMLL/zed_zuban.git
+
+
 [submodule "extensions/batman"]
 	path = extensions/batman
 	url = https://github.com/devzaidi/batman-theme-zed
@@ -945,6 +950,11 @@
 [submodule "extensions/go-snippets"]
 	path = extensions/go-snippets
 	url = https://github.com/ayberkgezer/go-zed-snippets
+
+[submodule "extensions/odoo"]
+	path = extensions/odoo
+	url = https://github.com/odoo/odoo-zed.git
+
 
 [submodule "extensions/golangci-lint"]
 	path = extensions/golangci-lint
